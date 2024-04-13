@@ -55,13 +55,3 @@ def read_time():
 	return current_time
 
 print (str(read_temp1()))
-
-
-
-
-    
-
-
-	
-
-
